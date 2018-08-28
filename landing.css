@@ -1,0 +1,10 @@
+.button {
+    position: absolute;
+    top: 50%;
+}
+button:hover span {content:"test"}
+
+button:hover:after {
+	font-family:"chiller";
+	content:" if you dare...";
+}

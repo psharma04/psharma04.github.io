@@ -14,10 +14,12 @@ li{
 /* Custom Fonts (Algerian and Chiller) */
 @font-face {
     font-family: Chiller;
+	src: local("Chiller");
     src: url(https://github.com/psharma04/IST2018/raw/master/fonts/CHILLER.TTF);
 }
 @font-face {
-    font-family: Algerian;
+    font-family: Alger;
+	src: local("Algerian");
     src: url(https://github.com/psharma04/IST2018/raw/master/fonts/ALGER.TTF);
 }
 @font-face {

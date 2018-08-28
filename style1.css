@@ -17,11 +17,11 @@ li{
     src: url(https://github.com/psharma04/IST2018/raw/master/fonts/CHILLER.TTF);
 }
 @font-face {
-    font-family: Alger;
+    font-family: Algerian;
     src: url(https://github.com/psharma04/IST2018/raw/master/fonts/ALGER.TTF);
 }
 @font-face {
-    font-family: Caslon;
+    font-family: "Adobe Caslon Pro";
     src: url(https://github.com/psharma04/IST2018/raw/master/fonts/Caslon.ttf);
 }
 /* DIV classes below */

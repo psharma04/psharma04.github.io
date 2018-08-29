@@ -26,6 +26,11 @@ li{
     font-family: "Adobe Caslon Pro";
     src: url(https://github.com/psharma04/IST2018/raw/master/fonts/Caslon.ttf);
 }
+@font-face {
+	font-family: Trebuchet;
+	src: local("Trebuchet MS");
+	src: url(https://github.com/psharma04/IST2018/raw/master/fonts/superiorsiegeengine.ttf);
+}
 /* DIV classes below */
 .body {
 	background-color:#CCCCCC;
@@ -90,6 +95,7 @@ li{
 	padding:0%;
 	margin:0%;
 	z-index:100;
+	font-family: Trebuchet;
 }
 .topnav ul {
     list-style-type: none;

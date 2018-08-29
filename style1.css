@@ -35,6 +35,7 @@ li{
 @font-face {
 	font-family: Tangerine;
 	src: url(https://github.com/psharma04/IST2018/raw/master/fonts/Tangerine.ttf);
+}
 /* DIV classes below */
 .body {
 	background-color:#CCCCCC;

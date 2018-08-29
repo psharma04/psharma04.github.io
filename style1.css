@@ -84,8 +84,12 @@ li{
 .topnav {
 	position: relative;
 	top:0;
+	left:0;
 	width:100%;
 	background-color:#333333;
+	padding:0%;
+	margin:0%;
+	z-index:100;
 }
 .topnav ul {
     list-style-type: none;

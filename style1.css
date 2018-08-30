@@ -33,9 +33,9 @@ li{
 	src: url(fonts/superiorsiegeengine.ttf);
 }
 @font-face {
-	font-family: Tangerine;
-	src: url(https://github.com/psharma04/IST2018/raw/master/fonts/Tangerine.ttf);
-	src: url(fonts/Tangerine.ttf)
+	font-family: Bookman;
+	src: local("Bookman Old Style");
+	src: url(fonts/bookman.TTF);
 }
 /* DIV classes below */
 .body {
@@ -51,13 +51,15 @@ li{
 	border-radius: 4px;
 	border-color:#ffc107;
 	padding:10px;
-	font-size:130%
+	font-size:130%;
+	cursor: pointer;
 }
 .btn-yellow:hover{
 	color:#ff0000;
 	background-color:#000000;
 	border-radius: 12px;
-	border-color:#000000
+	border-color:#000000;
+	cursor: pointer;
 }
 .wrapper {
 	margin:0;

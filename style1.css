@@ -44,6 +44,7 @@ li{
 	margin: 1%;
 	font-size:105%;
 	font-family: "Adobe Caslon Pro";
+	clear: both;
 }
 .btn-yellow{
 	color:#212529;
